@@ -1,3 +1,3 @@
 # imc
  
-Projeto IMC com Html, Css e JavaScript puro.
+Projeto IMC com Html, Css e JavaScript puro. 
